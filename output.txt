@@ -1,0 +1,55 @@
+==== Stock Trading Platform ====
+1. View Market Stocks
+2. Buy Stocks
+3. Sell Stocks
+4. View Portfolio
+5. Exit
+Enter your choice: 1
+
+--- Market Stocks ---
+Alphabet Inc. (GOOGL): $2800.30
+Apple Inc. (AAPL): $195.50
+Tesla Inc. (TSLA): $720.15
+Amazon.com Inc. (AMZN): $3450.70
+----------------------
+
+==== Stock Trading Platform ====
+1. View Market Stocks
+2. Buy Stocks
+3. Sell Stocks
+4. View Portfolio
+5. Exit
+Enter your choice: 2
+Enter stock symbol to buy: Tesla
+Stock symbol not found in market!
+==== Stock Trading Platform ====
+1. View Market Stocks
+2. Buy Stocks
+3. Sell Stocks
+4. View Portfolio
+5. Exit
+Enter your choice: 2   
+Enter stock symbol to buy: AAPL
+Enter quantity to buy: 10
+Bought 10 shares of AAPL
+==== Stock Trading Platform ====
+1. View Market Stocks
+2. Buy Stocks
+3. Sell Stocks
+4. View Portfolio
+5. Exit
+Enter your choice: 4
+
+----- Portfolio -----
+Apple Inc. (AAPL): 10 shares - $1955.00
+Total Portfolio Value: $1955.00
+---------------------
+
+==== Stock Trading Platform ====
+1. View Market Stocks
+2. Buy Stocks
+3. Sell Stocks
+4. View Portfolio
+5. Exit
+Enter your choice: 5
+Exiting... Thank you!
